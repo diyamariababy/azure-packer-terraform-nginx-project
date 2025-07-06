@@ -37,7 +37,7 @@ This project demonstrates how to automate VM image creation and deployment for f
 - SSH’ed into the deployed VM  
 - Confirmed Nginx was running by visiting the public IP in a browser or using `curl`  
 > Screenshot: ![Curl Command](./Screenshots/Curl%20Command.png)
-> Screenshot: ![Browser](./Screenshots/Nginx%20Browser.png)
+> Screenshot: ![Nginx Browser](./Screenshots/Nginx%20Browser.png)
 
 ---
 
